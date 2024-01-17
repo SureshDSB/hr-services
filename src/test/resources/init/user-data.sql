@@ -1,0 +1,1 @@
+insert into employee (login,name,salary,start_date,id) values ('hpotter','Harry Potter',1234,'2001-11-16','e0001');
